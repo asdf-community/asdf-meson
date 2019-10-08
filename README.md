@@ -16,6 +16,7 @@ Meson plugin for ASDF version manager
   - curl
   - git
   - unzip
+  - tar
 
 ## Installation
 
