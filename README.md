@@ -13,6 +13,8 @@ Meson plugin for ASDF version manager
 ## Prerequirements
 
 - Make sure you have the required dependencies installed:
+  - Python (3.5 or later)
+  - Ninja (1.5 or later)
   - curl
   - git
   - unzip
