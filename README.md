@@ -1,6 +1,6 @@
 <div align="center">
 <h1>asdf-meson 📦</h1>
-Meson plugin for ASDF version manager
+Meson plugin for asdf version manager
 </div>
 <hr />
 
