@@ -17,7 +17,6 @@ Meson plugin for asdf version manager
   - Ninja (1.5 or later)
   - curl
   - git
-  - unzip
   - tar
 
 ## Installation
