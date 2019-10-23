@@ -44,8 +44,9 @@ jobs:
           asdf plugin-add meson $GITHUB_WORKSPACE
           bats test
 
-  shellcheck:
+  lint:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v1
       - name: Run ShellCheck
