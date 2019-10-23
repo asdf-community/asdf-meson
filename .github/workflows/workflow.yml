@@ -18,7 +18,7 @@ jobs:
       - name: Install asdf
         run: git clone https://github.com/asdf-vm/asdf.git $HOME/asdf
 
-      - name: Install meson and run test
+      - name: Install meson and print meson version
         run: |
           . $HOME/asdf/asdf.sh
           asdf plugin-add meson $GITHUB_WORKSPACE
