@@ -1,5 +1,5 @@
 <div align="center">
-<h1>asdf-meson 📦</h1>
+<h1>asdf-meson</h1>
 <span><a href="https://mesonbuild.com">Meson</a> plugin for asdf version manager</span>
 </div>
 <hr />
