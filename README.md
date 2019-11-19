@@ -1,13 +1,11 @@
 <div align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <h1>asdf-meson</h1>
 <span><a href="https://mesonbuild.com">Meson</a> plugin for asdf version manager</span>
 </div>
 <hr />
 
 [![Main workflow](https://github.com/asdf-community/asdf-meson/workflows/Main%20workflow/badge.svg)](https://github.com/asdf-community/asdf-meson/actions)
-[![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/asdf-community/asdf-meson.svg)](https://isitmaintained.com/project/asdf-community/asdf-meson 'Average time to resolve an issue')
-[![Percentage of issues still open](https://isitmaintained.com/badge/open/asdf-community/asdf-meson.svg)](https://isitmaintained.com/project/asdf-community/asdf-meson 'Percentage of issues still open')
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![License](https://img.shields.io/github/license/asdf-community/asdf-meson?color=brightgreen)](https://github.com/asdf-community/asdf-meson/blob/master/LICENSE)
 
@@ -31,9 +29,10 @@ asdf plugin-add meson https://github.com/asdf-community/asdf-meson.git
 Check [asdf](https://github.com/asdf-vm/asdf) readme for instructions on how to
 install & manage versions.
 
-## Contributors ✨
+## Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people
+([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -45,4 +44,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the
+[all-contributors](https://github.com/all-contributors/all-contributors)
+specification. Contributions of any kind welcome!
+
+## License
+
+&copy; Contributors Licensed under the
+[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
