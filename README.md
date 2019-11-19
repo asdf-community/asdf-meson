@@ -6,8 +6,8 @@
 
 [![Main workflow](https://github.com/asdf-community/asdf-meson/workflows/Main%20workflow/badge.svg)](https://github.com/asdf-community/asdf-meson/actions)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![License](https://img.shields.io/github/license/asdf-community/asdf-meson?color=brightgreen)](https://github.com/asdf-community/asdf-meson/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![License](https://img.shields.io/github/license/asdf-community/asdf-meson?style=flat-square&color=brightgreen)](https://github.com/asdf-community/asdf-meson/blob/master/LICENSE)
 
 ## Prerequirements
 
