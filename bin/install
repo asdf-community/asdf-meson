@@ -25,8 +25,8 @@ install_meson() {
     curl --silent --location --create-dirs --output "$source_path" "$download_url" || fail "Could not download meson $version"
     tar zxf "$source_path" -C "$install_path" --strip-components=1 >/dev/null || fail "Could not uncompress"
     mkdir -p "${install_path}/bin"
-    ln -s "${install_path}/meson.py" "${install_path}/bin/meson" || fail "Could not set symbolic link"
-    rm "$source_path" || fail "Could not remove zip file"
+    ln -s "${install_path}/meson.py" "${install_path}/bin/meson" || fail "Could not set symlink"
+    rm "$source_path" || fail "Could not remove tar file"
     echo "The installation was successful!"
   ) ||
     (
